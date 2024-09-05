@@ -42,7 +42,7 @@ export default function Home() {
               />
             </div>
             <p className="text-lg mt-4 md:mt-0 animate-slide-in-left">
-              Chauffeur professionnel avec plus de 14 ans d'expérience dans le transport touristique, de ligne et international. Titulaire de multiples permis (B, C, D, EB, EC, ED). Polyvalent, fiable et adaptable, avec d'excellentes compétences en communication. Trilingue : Arabe, Français, Anglais. Spécialisé dans la conduite de divers types de véhicules et la gestion efficace des passagers.
+              Chauffeur professionnel avec plus de 14 ans d&apos;expérience dans le transport touristique, de ligne et international. Titulaire de multiples permis (B, C, D, EB, EC, ED). Polyvalent, fiable et adaptable, avec d&apos;excellentes compétences en communication. Trilingue : Arabe, Français, Anglais. Spécialisé dans la conduite de divers types de véhicules et la gestion efficace des passagers.
             </p>
           </div>
         </section>
