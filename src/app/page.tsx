@@ -52,25 +52,32 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-4 animate-fade-in">Expérience Professionnelle</h2>
           <div className="space-y-6 animate-slide-in-right">
             <div className="bg-white shadow-md rounded-lg p-6 transform transition-transform duration-500 hover:scale-105">
-              <h3 className="text-xl font-semibold">Chauffeur</h3>
+              <h3 className="text-xl font-semibold">Chauffeur international</h3>
               <p className="text-gray-600">Servi Tour Khadija | Nov 2023 - Présent</p>
               <p>Employé comme chauffeur dans une société de transport touristique basée à Fès.</p>
             </div>
-            <div className="bg-white shadow-md rounded-lg p-6 transform transition-transform duration-500 hover:scale-105">
-              <h3 className="text-xl font-semibold">Chauffeur international</h3>
-              <p className="text-gray-600">Missouri Transport | 2019 - 2022</p>
-              <p>Employé comme chauffeur international dans une entreprise de transport touristique basée à Fès.</p>
-            </div>
-            <div className="bg-white shadow-md rounded-lg p-6 transform transition-transform duration-500 hover:scale-105">
+                               <div className="bg-white shadow-md rounded-lg p-6 transform transition-transform duration-500 hover:scale-105">
               <h3 className="text-xl font-semibold">Chauffeur de ligne</h3>
-              <p className="text-gray-600">SIMT STÉ. DE TRANSPORT MOUJAHID TAMASSINTE | 2016 - 2018</p>
+              <p className="text-gray-600">TARANSPORT TAMASSINT TOURISME | 2021 - 2023</p>
+              <p>Employé comme chauffeur de ligne </p>
+            </div>
+                        <div className="bg-white shadow-md rounded-lg p-6 transform transition-transform duration-500 hover:scale-105">
+              <h3 className="text-xl font-semibold">Chauffeur de ligne</h3>
+              <p className="text-gray-600">Transport Bourak International | 2019 - 2020</p>
               <p>Employé comme chauffeur de ligne dans une société de transport international.</p>
+            </div>
+                  <div className="bg-white shadow-md rounded-lg p-6 transform transition-transform duration-500 hover:scale-105">
+              <h3 className="text-xl font-semibold">Chauffeur</h3>
+              <p className="text-gray-600">SIMT STÉ. DE TRANSPORT MOUJAHID TAMASSINTE | 2016 - 2018</p>
+              <p>Travaillé comme chauffeur pour une société de transport, immatriculé à la CNSS sous le numéro 106814752.</p>
             </div>
             <div className="bg-white shadow-md rounded-lg p-6 transform transition-transform duration-500 hover:scale-105">
               <h3 className="text-xl font-semibold">Chauffeur</h3>
-              <p className="text-gray-600">Transport Bourak International | 2014 - 2016</p>
-              <p>Responsable de la conduite de camions pour le transport international de marchandises lourdes.</p>
+              <p className="text-gray-600">Missouri Transport | 2014 - 2016</p>
+              <p>Employé comme chauffeur international dans une entreprise de transport touristique basée à Fès.</p>
             </div>
+      
+
             <div className="bg-white shadow-md rounded-lg p-6 transform transition-transform duration-500 hover:scale-105">
               <h3 className="text-xl font-semibold">Chauffeur</h3>
               <p className="text-gray-600">Société de Transport Laghozala | 2012 - 2014</p>
